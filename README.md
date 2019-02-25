@@ -73,6 +73,5 @@ aws_instance.example: Creating...
 aws_instance.example: Still creating... (20s elapsed)
 aws_instance.example: Creation complete after 22s (ID: i-07fcaa5435207dac7)
 Apply complete! Resources: 1 added, 0 changed, 0 destroyed.
-  
-  
+   
 
