@@ -61,17 +61,20 @@ Plan: 1 to add, 0 to change, 0 to destroy.
   terraform apply command to apply the changes.
   
   
-  $ terraform apply
-aws_instance.example: Creating...
-  ami:                          "" => "ami-4fc58420"
-  associate_public_ip_address:  "" => "<computed>"
-  availability_zone:            "" => "<computed>"
-  ebs_block_device.#:           "" => "<computed>"
-  ephemeral_block_device.#:     "" => "<computed>"
-  instance_state:               "" => "<computed>"
+ $ terraform apply
+ aws_instance.example: Creating...
+ ami:                          "" => "ami-4fc58420"
+ associate_public_ip_address:  "" => "<computed>"
+ availability_zone:            "" => "<computed>"
+ ebs_block_device.#:           "" => "<computed>"
+ ephemeral_block_device.#:     "" => "<computed>"
+ instance_state:               "" => "<computed>"
  aws_instance.example: Still creating... (10s elapsed)
-aws_instance.example: Still creating... (20s elapsed)
-aws_instance.example: Creation complete after 22s (ID: i-07fcaa5435207dac7)
-Apply complete! Resources: 1 added, 0 changed, 0 destroyed.
-   
+ aws_instance.example: Still creating... (20s elapsed)
+ aws_instance.example: Creation complete after 22s (ID: i-07fcaa5435207dac7)
+ Apply complete! Resources: 1 added, 0 changed, 0 destroyed.
+  
+  
+
+
 
