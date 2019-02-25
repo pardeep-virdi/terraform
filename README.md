@@ -60,7 +60,6 @@ Plan: 1 to add, 0 to change, 0 to destroy.
   
   terraform apply command to apply the changes.
   
-  
  $ terraform apply
  aws_instance.example: Creating...
  ami:                          "" => "ami-4fc58420"
