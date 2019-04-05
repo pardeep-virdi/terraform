@@ -72,6 +72,13 @@ Plan: 1 to add, 0 to change, 0 to destroy.
  aws_instance.example: Still creating... (20s elapsed)
  aws_instance.example: Creation complete after 22s (ID: i-07fcaa5435207dac7)
  Apply complete! Resources: 1 added, 0 changed, 0 destroyed.
+ 
+ 
+ Use below link
+ 
+ https://medium.com/@devopslearning/100-days-of-devops-day-34-terraform-pipeline-using-jenkins-a3d81975730f
+ 
+ 
   
   
 
